@@ -7,3 +7,5 @@ There are 2 parts of this project.
 
 So you can run each one of those.
 Thanks guys... Do run this app...
+
+just compli those above files and then run the class files 

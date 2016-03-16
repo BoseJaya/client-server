@@ -34,7 +34,7 @@ public class AppClient extends Frame implements ActionListener,Runnable{
 
         try
         {
-          s=new Socket(InetAddress.getByName("192.168.0.7"),12000);
+          s=new Socket(InetAddress.getByName("Your laptop IP"),12000);
             /*if(s==null)
             {
                 System.out.println("Not connected......");
